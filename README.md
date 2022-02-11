@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi👋, I'm Ravi Kumawat
 
 <!--
 **ravikumawat7716/ravikumawat7716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 Student at IIT Madras
+- 🌱 I’m currently learning Web Application Development & DBMS
