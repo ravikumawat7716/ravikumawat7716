@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/ravikumawat7716_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="https://instagram.com/ravikumawat7716_/" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/iitm21f1004119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iitm21f1004119" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravikumawat7716" target="blank"><img align="center" src="https://www.hackerrank.com/blog/wp-content/uploads/blog-no-img-cursorlogo-e1588888720902.png" alt="https://www.hackerrank.com/ravikumawat7716" height="30" width="26" /></a>
-<a href="https://www.hackerearth.com/@ravikumawat7716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@ravikumawat7716" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ravikumawat7716" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/800px-HackerEarth_logo.png" alt="https://www.hackerearth.com/@ravikumawat7716" height="30" width="30" /></a>
 </p>
 <hr />
 
