@@ -13,7 +13,7 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ravikumawat7716" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/ravikumawat7716" height="30" width="40" /></a>
-<a href="https://twitter.com/ravikumawat7716" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="ravikumawat7716" height="30" width="40" /></a>
+<a href="https://twitter.com/ravikumawat7716" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="ravikumawat7716" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ravikumawat7716/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/ravikumawat7716/" height="40" width="40" /></a>
 <a href="https://kaggle.com/ravikumawat7716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ravikumawat7716" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ravikumawat7716_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ravikumawat7716_/" height="30" width="40" /></a>
