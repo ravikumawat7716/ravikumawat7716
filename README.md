@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/ravikumawat7716" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/ravikumawat7716" height="30" width="40" /></a>
 <a href="https://twitter.com/ravikumawat7716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravikumawat7716" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravikumawat7716/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/ravikumawat7716/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravikumawat7716/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/ravikumawat7716/" height="40" width="40" /></a>
 <a href="https://kaggle.com/ravikumawat7716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ravikumawat7716" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ravikumawat7716_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ravikumawat7716_/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iitm21f1004119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iitm21f1004119" height="30" width="40" /></a>
