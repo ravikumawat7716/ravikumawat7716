@@ -2,8 +2,6 @@
 - 🌱 Student at IIT Madras
 - 🌱 I’m currently learning Web Application Development & DBMS
   <br />
-  <h1 align="center">I am Ravi Kumawat</h1>
-  <h3 align="center">Web Developer | Data Scientist </h3>
 </p>
 
 <h3>💬 About me: </h3>
