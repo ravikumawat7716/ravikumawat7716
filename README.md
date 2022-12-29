@@ -6,7 +6,7 @@
 
 <h3>💬 About me: </h3>
 <p>
-  I pride myself in being a Passionate Python Developer and a web Developr. I loved balancing creative mind with needs to produce results. I'm always looking to be challenged, and to challenge others. I'm pursuing my Bachelors in Data Science and Applications from IIT Madras.
+  I pride myself in being a Passionate Python Developer and a Web Developer. I'm always looking to be challenged, and to challenge others. I'm pursuing my Bachelors in Data Science and Applications from IIT Madras.
 </p>
 <hr />
 
