@@ -42,7 +42,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikumawat7716" alt="ravikumawat7716" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.ravikumawat.engineer/](https://www.ravikumawat.engineer/)
+- 📝 To know more about me : [https://www.ravikumawat.engineer/](https://www.ravikumawat.engineer/)
 <hr />
 
 
