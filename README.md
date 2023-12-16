@@ -32,7 +32,4 @@ I'm a passionate Python and Web Developer pursuing my Bachelors in Data Science 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ravikumawat7716)
 
-## 🌐 Portfolio
-Visit [my portfolio](https://www.ravikumawat.engineer/) to learn more about me.
-
 Feel free to explore my repositories, and don't hesitate to connect with me on social media. Happy coding! 🚀
