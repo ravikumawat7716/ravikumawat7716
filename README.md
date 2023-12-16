@@ -9,20 +9,6 @@ I'm a passionate Python and Web Developer pursuing my Bachelors in Data Science 
 - [Kaggle](https://kaggle.com/ravikumawat)
 - [All Social Media Links](https://linktr.ee/ravikumawat)
 
-## 📝✂ Languages and Tools
-- Python
-- Flask
-- Jinja
-- SQLite
-- PostgreSQL
-- HTML, CSS
-- Bootstrap
-- JavaScript
-- Vue.js
-- Git
-- Linux
-- Bash Scripting
-- Java
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ravikumawat7716&show_icons=true&locale=en&layout=compact)
