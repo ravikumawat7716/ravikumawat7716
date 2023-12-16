@@ -1,20 +1,13 @@
 # Hi there! 👋 I'm Ravi Kumawat, a student at IIT Madras.
 
-## 🌱 Currently Learning
-- Web Application Development
-- Database Management Systems
-
 ## 💬 About Me
 I'm a passionate Python and Web Developer pursuing my Bachelors in Data Science and Applications at IIT Madras.
 
 ## 🤝 Connect with Me
-- [Dev.to](https://dev.to/ravikumawat7716)
-- [Twitter](https://twitter.com/ravikumawat7716)
 - [LinkedIn](https://www.linkedin.com/in/ravikumawat7716/)
-- [Instagram](https://www.instagram.com/ravikumawat7716/)
-- [CodeChef](https://www.codechef.com/users/iitm21f1004119)
 - [HackerRank](https://www.hackerrank.com/ravikumawat7716)
 - [Kaggle](https://kaggle.com/ravikumawat)
+- [All Social Media Links](https://linktr.ee/ravikumawat)
 
 ## 📝✂ Languages and Tools
 - Python
