@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ravi Kumawat, a student at IIT Madras.
 
 ## 💬 About Me
-I'm a passionate Python and Web Developer pursuing my Bachelors in Data Science and Applications at IIT Madras.
+I'm a passionate Developer pursuing my Bachelors in Data Science and Applications at IIT Madras.
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ravikumawat7716/)
