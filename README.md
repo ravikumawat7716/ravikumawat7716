@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Ravi Kumawat, a student at IIT Madras.
 
 ## 💬 About Me
-I'm a passionate Developer pursuing my Bachelors in Data Science and Applications at IIT Madras.
+I'm a passionate Developer.
+I'm pursuing my Bachelors in Data Science and Applications at IIT Madras.
+I'm working as a Research Intern at IIT Ropar , Punjab.
+I'm a member of [Sundarbans House WebOps Team](https://github.com/SundarbansWebOps)
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ravikumawat7716/)
