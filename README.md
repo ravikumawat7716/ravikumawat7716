@@ -19,3 +19,8 @@ I'm a passionate Python and Web Developer pursuing my Bachelors in Data Science 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ravikumawat7716)
 
 Feel free to explore my repositories, and don't hesitate to connect with me on social media. Happy coding! 🚀
+
+<br>
+<p align="left"> 
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ravikumawat7716&label=Profile%20views&color=0e75b6&style=flat" alt="Profile_View_Count" /> </p>
