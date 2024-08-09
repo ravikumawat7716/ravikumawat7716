@@ -13,7 +13,7 @@ My coursework has provided me with a solid foundation in:
 
 ### Professional Experience
 
-Currently, I'm a Research Intern at the Department of Computer Science and Engineering at IIT Ropar. Here, I focus on Deep Learning Applications in Computer Vision.
+Currently, I'm a Research Intern at the Department of Computer Science and Engineering at IIT Ropar. Here, I focus on Deep Learning Applications in Computer Vision, Medical imaging.
 
 ### Extracurricular Activities
 
