@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ravi Kumawat.
 
-Hi, I'm Ravi Kumawat from Jaipur, Rajasthan. I'm pursuing my 4-year Bachelor's Degree in Data Science and Applications at the Indian Institute of Technology Madras (IIT Madras).
+Hi, I'm Ravi Kumawat from Jaipur, Rajasthan. I'm pursuing my Bachelor's Degree in Data Science and Applications at the Indian Institute of Technology Madras (IIT Madras).
 
 ### Academic Journey
 
