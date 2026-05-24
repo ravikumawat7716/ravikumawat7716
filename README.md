@@ -24,8 +24,3 @@ Data scientist and engineer interested in distributed systems, graph databases, 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravikumawat7716&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumawat7716&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
