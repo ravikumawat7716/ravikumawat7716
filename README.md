@@ -2,7 +2,7 @@
 
 <p align="center">
   Master of Data Science · University of Melbourne &nbsp;|&nbsp; Melbourne, AU 🇦🇺<br>
-  B.S. Data Science · IIT Madras &nbsp;|&nbsp; ex AI Engineer · Krish AI Technologies
+  Bachelors - IIT Madras &nbsp;|&nbsp; ex AI Engineer · Krish AI Technologies
 </p>
 
 <p align="center">
